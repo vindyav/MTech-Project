@@ -1,0 +1,142 @@
+ 
+****************************************
+Report : reference
+Design : accelerator_soc
+Version: V-2023.12-SP5-3
+Date   : Sat Nov 29 18:30:03 2025
+****************************************
+
+Attributes:
+    b - black box (unknown)
+   bo - allows boundary optimization
+    d - dont_touch
+   mo - map_only
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    s - synthetic operator
+    u - contains unmapped logic
+
+Reference          Library       Unit Area   Count    Total Area   Attributes
+-----------------------------------------------------------------------------
+ah01d1             tsl18fs120_scl_ff
+                                 34.500000       5    172.500000  r
+an02d0             tsl18fs120_scl_ff
+                                 15.680000       1     15.680000  
+an03d0             tsl18fs120_scl_ff
+                                 18.820000       1     18.820000  
+aoi21d1            tsl18fs120_scl_ff
+                                 15.680000      20    313.600006  
+aoi21d4            tsl18fs120_scl_ff
+                                 31.360001       4    125.440002  
+aoi22d1            tsl18fs120_scl_ff
+                                 18.820000      38    715.159988  
+aoi31d1            tsl18fs120_scl_ff
+                                 18.820000       1     18.820000  
+aoi211d2           tsl18fs120_scl_ff
+                                 34.500000       2     69.000000  
+aoi222d1           tsl18fs120_scl_ff
+                                 31.360001       8    250.880005  
+aoim22d1           tsl18fs120_scl_ff
+                                 21.950001      47   1031.650036  
+aoim22d2           tsl18fs120_scl_ff
+                                 31.360001      21    658.560013  
+aon211d1           tsl18fs120_scl_ff
+                                 18.820000       2     37.639999  
+aor21d1            tsl18fs120_scl_ff
+                                 21.950001       1     21.950001  
+aor22d1            tsl18fs120_scl_ff
+                                 25.090000      30    752.700005  
+aor31d1            tsl18fs120_scl_ff
+                                 21.950001       1     21.950001  
+bufbd3             tsl18fs120_scl_ff
+                                 21.950001       1     21.950001  
+buffd1             tsl18fs120_scl_ff
+                                 12.540000       6     75.240000  
+buffd3             tsl18fs120_scl_ff
+                                 15.680000      10    156.800003  
+dfcrq1             tsl18fs120_scl_ff
+                                 65.860001     170  11196.200104  n
+inv0d0             tsl18fs120_scl_ff
+                                  6.270000      87    545.489998  
+inv0d1             tsl18fs120_scl_ff
+                                  9.410000      68    639.879990  
+inv0d2             tsl18fs120_scl_ff
+                                 12.540000       6     75.240000  
+inv0d4             tsl18fs120_scl_ff
+                                 18.820000       3     56.459999  
+invbd2             tsl18fs120_scl_ff
+                                 15.680000       3     47.040001  
+invbd4             tsl18fs120_scl_ff
+                                 21.950001       5    109.750004  
+mx02d1             tsl18fs120_scl_ff
+                                 25.090000      18    451.620003  
+nd02d0             tsl18fs120_scl_ff
+                                 12.540000      11    137.940000  
+nd02d1             tsl18fs120_scl_ff
+                                 12.540000      35    438.899999  
+nd03d1             tsl18fs120_scl_ff
+                                 15.680000       1     15.680000  
+nd03d2             tsl18fs120_scl_ff
+                                 28.219999       1     28.219999  
+nd04d0             tsl18fs120_scl_ff
+                                 18.820000       1     18.820000  
+nd04d1             tsl18fs120_scl_ff
+                                 18.820000       1     18.820000  
+nd12d4             tsl18fs120_scl_ff
+                                 34.500000       1     34.500000  
+nr02d0             tsl18fs120_scl_ff
+                                 12.540000      14    175.559999  
+nr02d1             tsl18fs120_scl_ff
+                                 12.540000      10    125.400000  
+nr02d2             tsl18fs120_scl_ff
+                                 18.820000       2     37.639999  
+nr02d4             tsl18fs120_scl_ff
+                                 31.360001       1     31.360001  
+nr03d2             tsl18fs120_scl_ff
+                                 31.360001       1     31.360001  
+nr03d4             tsl18fs120_scl_ff
+                                 34.500000       2     69.000000  
+nr04d0             tsl18fs120_scl_ff
+                                 18.820000       2     37.639999  
+nr04d1             tsl18fs120_scl_ff
+                                 18.820000       1     18.820000  
+nr04d2             tsl18fs120_scl_ff
+                                 34.500000       1     34.500000  
+nr13d1             tsl18fs120_scl_ff
+                                 21.950001       1     21.950001  
+oai21d1            tsl18fs120_scl_ff
+                                 15.680000       6     94.080002  
+oai21d4            tsl18fs120_scl_ff
+                                 34.500000       1     34.500000  
+oai22d1            tsl18fs120_scl_ff
+                                 18.820000       3     56.459999  
+oai22d2            tsl18fs120_scl_ff
+                                 34.500000       1     34.500000  
+oai31d1            tsl18fs120_scl_ff
+                                 21.950001       1     21.950001  
+oai211d1           tsl18fs120_scl_ff
+                                 18.820000      24    451.679993  
+oai222d2           tsl18fs120_scl_ff
+                                 43.900002       1     43.900002  
+oaim21d1           tsl18fs120_scl_ff
+                                 18.820000       1     18.820000  
+oaim22d1           tsl18fs120_scl_ff
+                                 25.090000       8    200.720001  
+oaim211d1          tsl18fs120_scl_ff
+                                 25.090000       2     50.180000  
+oan211d1           tsl18fs120_scl_ff
+                                 18.820000       4     75.279999  
+or02d0             tsl18fs120_scl_ff
+                                 15.680000       2     31.360001  
+or02d1             tsl18fs120_scl_ff
+                                 15.680000       1     15.680000  
+or02d2             tsl18fs120_scl_ff
+                                 18.820000       1     18.820000  
+xn02d1             tsl18fs120_scl_ff
+                                 34.500000      11    379.500000  
+xr02d1             tsl18fs120_scl_ff
+                                 31.360001      15    470.400009  
+-----------------------------------------------------------------------------
+Total 59 references                                 20873.960160
+1

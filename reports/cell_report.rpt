@@ -1,0 +1,1600 @@
+ 
+****************************************
+Report : cell
+Design : accelerator_soc
+Version: V-2023.12-SP5-3
+Date   : Sat Nov 29 18:30:03 2025
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+U454                      nr02d4          tsl18fs120_scl_ff
+                                                          31.360001 
+U455                      invbd4          tsl18fs120_scl_ff
+                                                          21.950001 
+U456                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U457                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U458                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U459                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U460                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U461                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U462                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U463                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U464                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U465                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U466                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U467                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U468                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U469                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U470                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U471                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U472                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U473                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U474                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U475                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U476                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U477                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U478                      invbd4          tsl18fs120_scl_ff
+                                                          21.950001 
+U479                      nr04d2          tsl18fs120_scl_ff
+                                                          34.500000 
+U480                      invbd4          tsl18fs120_scl_ff
+                                                          21.950001 
+U481                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U482                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U483                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U484                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U485                      nd03d2          tsl18fs120_scl_ff
+                                                          28.219999 
+U486                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U487                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U488                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U489                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U490                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U491                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U492                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U493                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U494                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U495                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U496                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U497                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U498                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U499                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U500                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U501                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U502                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U503                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U504                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U505                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U506                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U507                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U508                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U509                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U510                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U511                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U512                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U513                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U514                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U515                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U516                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U517                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U518                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U519                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U520                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U521                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U522                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U523                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U524                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U525                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U526                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U527                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U528                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U529                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U530                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U531                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U532                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U533                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U534                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U535                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U536                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U537                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U538                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U539                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U540                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U541                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U542                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U543                      invbd4          tsl18fs120_scl_ff
+                                                          21.950001 
+U544                      invbd4          tsl18fs120_scl_ff
+                                                          21.950001 
+U545                      invbd2          tsl18fs120_scl_ff
+                                                          15.680000 
+U546                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U547                      buffd1          tsl18fs120_scl_ff
+                                                          12.540000 
+U548                      or02d2          tsl18fs120_scl_ff
+                                                          18.820000 
+U549                      nr03d4          tsl18fs120_scl_ff
+                                                          34.500000 
+U550                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U551                      aor31d1         tsl18fs120_scl_ff
+                                                          21.950001 
+U552                      oai21d4         tsl18fs120_scl_ff
+                                                          34.500000 
+U553                      invbd2          tsl18fs120_scl_ff
+                                                          15.680000 
+U554                      inv0d4          tsl18fs120_scl_ff
+                                                          18.820000 
+U555                      inv0d4          tsl18fs120_scl_ff
+                                                          18.820000 
+U556                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U557                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U558                      bufbd3          tsl18fs120_scl_ff
+                                                          21.950001 
+U559                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U560                      inv0d4          tsl18fs120_scl_ff
+                                                          18.820000 
+U561                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U562                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U563                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U564                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U565                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U566                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U567                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U568                      or02d0          tsl18fs120_scl_ff
+                                                          15.680000 
+U569                      an03d0          tsl18fs120_scl_ff
+                                                          18.820000 
+U570                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U571                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U572                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U573                      or02d0          tsl18fs120_scl_ff
+                                                          15.680000 
+U574                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U575                      an02d0          tsl18fs120_scl_ff
+                                                          15.680000 
+U576                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U577                      nr02d2          tsl18fs120_scl_ff
+                                                          18.820000 
+U578                      buffd1          tsl18fs120_scl_ff
+                                                          12.540000 
+U579                      buffd1          tsl18fs120_scl_ff
+                                                          12.540000 
+U580                      buffd1          tsl18fs120_scl_ff
+                                                          12.540000 
+U581                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U582                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U583                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U584                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U585                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U586                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U587                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U588                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U589                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U590                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U591                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U592                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U593                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U594                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U595                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U596                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U597                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U598                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U599                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U600                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U601                      aoi211d2        tsl18fs120_scl_ff
+                                                          34.500000 
+U602                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U603                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U604                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U605                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U606                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U607                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U608                      aoi21d4         tsl18fs120_scl_ff
+                                                          31.360001 
+U609                      aoi21d4         tsl18fs120_scl_ff
+                                                          31.360001 
+U610                      aoi21d4         tsl18fs120_scl_ff
+                                                          31.360001 
+U611                      aoi21d4         tsl18fs120_scl_ff
+                                                          31.360001 
+U612                      aoi211d2        tsl18fs120_scl_ff
+                                                          34.500000 
+U613                      buffd3          tsl18fs120_scl_ff
+                                                          15.680000 
+U614                      oai22d2         tsl18fs120_scl_ff
+                                                          34.500000 
+U615                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U616                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U617                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U618                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U619                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U620                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U621                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U622                      nr02d2          tsl18fs120_scl_ff
+                                                          18.820000 
+U623                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U624                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U625                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U626                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U627                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U628                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U629                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U630                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U631                      aoim22d2        tsl18fs120_scl_ff
+                                                          31.360001 
+U632                      oai222d2        tsl18fs120_scl_ff
+                                                          43.900002 
+U633                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U634                      nd02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U635                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U636                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U637                      buffd3          tsl18fs120_scl_ff
+                                                          15.680000 
+U638                      nr03d4          tsl18fs120_scl_ff
+                                                          34.500000 
+U639                      inv0d2          tsl18fs120_scl_ff
+                                                          12.540000 
+U640                      invbd2          tsl18fs120_scl_ff
+                                                          15.680000 
+U641                      nr04d1          tsl18fs120_scl_ff
+                                                          18.820000 
+U642                      nr02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U643                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U644                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U645                      nr03d2          tsl18fs120_scl_ff
+                                                          31.360001 
+U646                      nr13d1          tsl18fs120_scl_ff
+                                                          21.950001 
+U647                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U648                      nr02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U649                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U650                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U651                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U652                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U653                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U654                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U655                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U656                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U657                      oai21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U658                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U659                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U660                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U661                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U662                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U663                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U664                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U665                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U666                      oai22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U667                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U668                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U669                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U670                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U671                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U672                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U673                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U674                      inv0d1          tsl18fs120_scl_ff
+                                                          9.410000  
+U675                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U676                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U677                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U678                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U679                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U680                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U681                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U682                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U683                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U684                      nr02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U685                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U686                      nr02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U687                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U688                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U689                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U690                      oan211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U691                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U692                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U693                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U694                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U695                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U696                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U697                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U698                      oan211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U699                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U700                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U701                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U702                      oai31d1         tsl18fs120_scl_ff
+                                                          21.950001 
+U703                      oan211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U704                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U705                      oai22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U706                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U707                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U708                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U709                      nr02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U710                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U711                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U712                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U713                      nr02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U714                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U715                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U716                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U717                      ah01d1          tsl18fs120_scl_ff
+                                                          34.500000 r
+U718                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U719                      ah01d1          tsl18fs120_scl_ff
+                                                          34.500000 r
+U720                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U721                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U722                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U723                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U724                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U725                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U726                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U727                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U728                      nr02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U729                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U730                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U731                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U732                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U733                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U734                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U735                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U736                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U737                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U738                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U739                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U740                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U741                      nr02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U742                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U743                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U744                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U745                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U746                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U747                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U748                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U749                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U750                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U751                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U752                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U753                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U754                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U755                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U756                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U757                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U758                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U759                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U760                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U761                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U762                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U763                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U764                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U765                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U766                      oai21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U767                      oan211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U768                      oai21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U769                      oaim21d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U770                      aon211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U771                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U772                      aoi31d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U773                      aon211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U774                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U775                      nr04d0          tsl18fs120_scl_ff
+                                                          18.820000 
+U776                      nr04d0          tsl18fs120_scl_ff
+                                                          18.820000 
+U777                      oai21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U778                      nd04d1          tsl18fs120_scl_ff
+                                                          18.820000 
+U779                      oaim211d1       tsl18fs120_scl_ff
+                                                          25.090000 
+U780                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U781                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U782                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U783                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U784                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U785                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U786                      nr02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U787                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U788                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U789                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U790                      ah01d1          tsl18fs120_scl_ff
+                                                          34.500000 r
+U791                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U792                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U793                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U794                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U795                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U796                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U797                      ah01d1          tsl18fs120_scl_ff
+                                                          34.500000 r
+U798                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U799                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U800                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U801                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U802                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U803                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U804                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U805                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U806                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U807                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U808                      nr02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U809                      nd02d1          tsl18fs120_scl_ff
+                                                          12.540000 
+U810                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U811                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U812                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U813                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U814                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U815                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U816                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U817                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U818                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U819                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U820                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U821                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U822                      inv0d2          tsl18fs120_scl_ff
+                                                          12.540000 
+U823                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U824                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U825                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U826                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U827                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U828                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U829                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U830                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U831                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U832                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U833                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U834                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U835                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U836                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U837                      xn02d1          tsl18fs120_scl_ff
+                                                          34.500000 
+U838                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U839                      mx02d1          tsl18fs120_scl_ff
+                                                          25.090000 
+U840                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U841                      oai21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U842                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U843                      ah01d1          tsl18fs120_scl_ff
+                                                          34.500000 r
+U844                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U845                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U846                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U847                      xr02d1          tsl18fs120_scl_ff
+                                                          31.360001 
+U848                      aor22d1         tsl18fs120_scl_ff
+                                                          25.090000 
+U849                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U850                      buffd3          tsl18fs120_scl_ff
+                                                          15.680000 
+U851                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U852                      nd03d1          tsl18fs120_scl_ff
+                                                          15.680000 
+U853                      buffd3          tsl18fs120_scl_ff
+                                                          15.680000 
+U854                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U855                      or02d1          tsl18fs120_scl_ff
+                                                          15.680000 
+U856                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U857                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U858                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U859                      nr02d0          tsl18fs120_scl_ff
+                                                          12.540000 
+U860                      oai21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U861                      inv0d2          tsl18fs120_scl_ff
+                                                          12.540000 
+U862                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U863                      inv0d2          tsl18fs120_scl_ff
+                                                          12.540000 
+U864                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U865                      buffd1          tsl18fs120_scl_ff
+                                                          12.540000 
+U866                      inv0d2          tsl18fs120_scl_ff
+                                                          12.540000 
+U867                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U868                      inv0d2          tsl18fs120_scl_ff
+                                                          12.540000 
+U869                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U870                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U871                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U872                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U873                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U874                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U875                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U876                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U877                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U878                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U879                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U880                      aor21d1         tsl18fs120_scl_ff
+                                                          21.950001 
+U881                      nd12d4          tsl18fs120_scl_ff
+                                                          34.500000 
+U882                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U883                      buffd3          tsl18fs120_scl_ff
+                                                          15.680000 
+U884                      buffd3          tsl18fs120_scl_ff
+                                                          15.680000 
+U885                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U886                      buffd3          tsl18fs120_scl_ff
+                                                          15.680000 
+U887                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U888                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U889                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U890                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U891                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U892                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U893                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U894                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U895                      buffd3          tsl18fs120_scl_ff
+                                                          15.680000 
+U896                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U897                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U898                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U899                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U900                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U901                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U902                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U903                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U904                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U905                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U906                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U907                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U908                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U909                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U910                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U911                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U912                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U913                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U914                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U915                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U916                      buffd1          tsl18fs120_scl_ff
+                                                          12.540000 
+U917                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U918                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U919                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U920                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U921                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U922                      aoim22d1        tsl18fs120_scl_ff
+                                                          21.950001 
+U923                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U924                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U925                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U926                      oai22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U927                      nd04d0          tsl18fs120_scl_ff
+                                                          18.820000 
+U928                      oaim211d1       tsl18fs120_scl_ff
+                                                          25.090000 
+U929                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U930                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U931                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U932                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U933                      buffd3          tsl18fs120_scl_ff
+                                                          15.680000 
+U934                      buffd3          tsl18fs120_scl_ff
+                                                          15.680000 
+U935                      aoi222d1        tsl18fs120_scl_ff
+                                                          31.360001 
+U936                      oaim22d1        tsl18fs120_scl_ff
+                                                          25.090000 
+U937                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U938                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U939                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U940                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U941                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U942                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U943                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U944                      aoi222d1        tsl18fs120_scl_ff
+                                                          31.360001 
+U945                      oaim22d1        tsl18fs120_scl_ff
+                                                          25.090000 
+U946                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U947                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U948                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U949                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U950                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U951                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U952                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U953                      inv0d0          tsl18fs120_scl_ff
+                                                          6.270000  
+U954                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U955                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U956                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U957                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U958                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U959                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U960                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U961                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U962                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U963                      aoi222d1        tsl18fs120_scl_ff
+                                                          31.360001 
+U964                      oaim22d1        tsl18fs120_scl_ff
+                                                          25.090000 
+U965                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U966                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U967                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U968                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U969                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U970                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U971                      aoi222d1        tsl18fs120_scl_ff
+                                                          31.360001 
+U972                      oaim22d1        tsl18fs120_scl_ff
+                                                          25.090000 
+U973                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U974                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U975                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U976                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U977                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U978                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U979                      aoi222d1        tsl18fs120_scl_ff
+                                                          31.360001 
+U980                      oaim22d1        tsl18fs120_scl_ff
+                                                          25.090000 
+U981                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U982                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U983                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U984                      aoi222d1        tsl18fs120_scl_ff
+                                                          31.360001 
+U985                      oaim22d1        tsl18fs120_scl_ff
+                                                          25.090000 
+U986                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U987                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U988                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U989                      aoi222d1        tsl18fs120_scl_ff
+                                                          31.360001 
+U990                      oaim22d1        tsl18fs120_scl_ff
+                                                          25.090000 
+U991                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U992                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U993                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U994                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U995                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U996                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U997                      aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U998                      aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U999                      oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U1000                     aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U1001                     aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U1002                     oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U1003                     aoi222d1        tsl18fs120_scl_ff
+                                                          31.360001 
+U1004                     oaim22d1        tsl18fs120_scl_ff
+                                                          25.090000 
+U1005                     aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U1006                     aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U1007                     oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+U1008                     aoi21d1         tsl18fs120_scl_ff
+                                                          15.680000 
+U1009                     aoi22d1         tsl18fs120_scl_ff
+                                                          18.820000 
+U1010                     oai211d1        tsl18fs120_scl_ff
+                                                          18.820000 
+u_axi_slave/ar_ready_reg  dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/aw_ready_reg  dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/o_clear_irq_reg
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/o_start_reg   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[0] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[1] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[2] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[3] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[4] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[5] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[6] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[7] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[8] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[9] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[10]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[11]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[12]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[13]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[14]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[15]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[16]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[17]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[18]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[19]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[20]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[21]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[22]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[23]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[24]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[25]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[26]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[27]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[28]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[29]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[30]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_data_reg[31]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/r_valid_reg   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[0]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[1]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[2]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[3]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[4]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[5]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[6]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[7]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[8]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[9]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[10]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[11]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[12]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[13]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[14]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[15]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[16]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[17]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[18]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[19]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[20]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[21]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[22]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[23]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[24]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[25]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[26]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[27]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[28]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[29]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[30]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_ctrl_reg[31]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[0]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[1]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[2]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[3]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[4]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[5]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[6]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[7]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[8]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[9]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[10]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[11]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[12]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[13]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[14]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[15]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[16]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[17]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[18]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[19]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[20]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[21]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[22]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[23]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[24]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[25]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[26]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[27]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[28]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[29]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[30]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_pixel_cnt_reg[31]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[0]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[1]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[2]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[3]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[4]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[5]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[6]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[7]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[8]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[9]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[10]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[11]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[12]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[13]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[14]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[15]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[16]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[17]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[18]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[19]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[20]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[21]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[22]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[23]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[24]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[25]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[26]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[27]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[28]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[29]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[30]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_quant_reg[31]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_axi_slave/reg_status_reg[0]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/done_reg           dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[0] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[1] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[2] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[3] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[4] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[5] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[6] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[7] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[8] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[9] dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[10]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[11]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[12]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[13]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[14]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/process_cnt_reg[15]
+                          dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/state_reg[0]       dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/state_reg[1]       dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/state_reg[2]       dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[0]   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[1]   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[2]   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[3]   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[4]   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[5]   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[6]   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[7]   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[8]   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[9]   dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[10]  dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[11]  dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[12]  dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[13]  dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[14]  dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+u_ctrl/write_cnt_reg[15]  dfcrq1          tsl18fs120_scl_ff
+                                                          65.860001 n
+--------------------------------------------------------------------------------
+Total 727 cells                                           20873.960160
+1

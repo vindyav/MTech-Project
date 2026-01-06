@@ -1,0 +1,97 @@
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : design
+Design : accelerator_soc
+Version: V-2023.12-SP5-3
+Date   : Sat Nov 29 18:30:03 2025
+****************************************
+
+Design allows ideal nets on clock nets.
+
+Library(s) Used:
+
+    tsl18fs120_scl_ff (File: /home/SynopsysInstalledTools/scl_pdk/stdlib/fs120/liberty/lib_flow_ff/tsl18fs120_scl_ff.db)
+
+Local Link Library:
+
+    {/home/SynopsysInstalledTools/scl_pdk/stdlib/fs120/liberty/lib_flow_ff/tsl18fs120_scl_ff.db}
+
+Flip-Flop Types:
+
+    No flip-flop types specified.
+
+Latch Types:
+
+    No latch types specified.
+
+Operating Conditions:
+
+
+    Operating Condition Name : tsl18fs120_scl_ff
+    Library : tsl18fs120_scl_ff
+    Process :   1.00
+    Temperature : -40.00
+    Voltage :   1.98
+
+Wire Loading Model:
+
+    Selected automatically from the total cell area.
+
+Name           :   35000
+Location       :   tsl18fs120_scl_ff
+Resistance     :   0.000228
+Capacitance    :   0.0002
+Area           :   0.01
+Slope          :   113.4
+Fanout   Length   Points Average Cap Std Deviation
+--------------------------------------------------------------
+     1    17.30
+     2    34.44
+     3    54.94
+     4    98.28
+     5   121.17
+     6   149.60
+     7   161.70
+     8   258.72
+     9   266.28
+    10   331.80
+    11   422.52
+    12   473.76
+    13   480.48
+    14   501.48
+    15   529.20
+    16   551.04
+    17   594.72
+    18   682.92
+    19   778.68
+    20   892.08
+
+
+
+Wire Loading Model Mode: top.
+
+Timing Ranges:
+
+    No timing ranges specified.
+
+Pin Input Delays:
+
+    None specified.
+
+Pin Output Delays:
+
+    None specified.
+
+Disabled Timing Arcs:
+
+    No arcs disabled.
+
+Required Licenses:
+
+    DesignWare
+
+Design Parameters:
+
+    None specified.
+1

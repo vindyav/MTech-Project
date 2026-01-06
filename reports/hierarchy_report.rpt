@@ -1,0 +1,72 @@
+ 
+****************************************
+Report : hierarchy
+Design : accelerator_soc
+Version: V-2023.12-SP5-3
+Date   : Sat Nov 29 18:30:03 2025
+****************************************
+
+Attributes:
+    r - licensed design
+
+accelerator_soc    r
+    ah01d1            tsl18fs120_scl_ff
+    an02d0            tsl18fs120_scl_ff
+    an03d0            tsl18fs120_scl_ff
+    aoi21d1           tsl18fs120_scl_ff
+    aoi21d4           tsl18fs120_scl_ff
+    aoi22d1           tsl18fs120_scl_ff
+    aoi31d1           tsl18fs120_scl_ff
+    aoi211d2          tsl18fs120_scl_ff
+    aoi222d1          tsl18fs120_scl_ff
+    aoim22d1          tsl18fs120_scl_ff
+    aoim22d2          tsl18fs120_scl_ff
+    aon211d1          tsl18fs120_scl_ff
+    aor21d1           tsl18fs120_scl_ff
+    aor22d1           tsl18fs120_scl_ff
+    aor31d1           tsl18fs120_scl_ff
+    bufbd3            tsl18fs120_scl_ff
+    buffd1            tsl18fs120_scl_ff
+    buffd3            tsl18fs120_scl_ff
+    dfcrq1            tsl18fs120_scl_ff
+    inv0d0            tsl18fs120_scl_ff
+    inv0d1            tsl18fs120_scl_ff
+    inv0d2            tsl18fs120_scl_ff
+    inv0d4            tsl18fs120_scl_ff
+    invbd2            tsl18fs120_scl_ff
+    invbd4            tsl18fs120_scl_ff
+    mx02d1            tsl18fs120_scl_ff
+    nd02d0            tsl18fs120_scl_ff
+    nd02d1            tsl18fs120_scl_ff
+    nd03d1            tsl18fs120_scl_ff
+    nd03d2            tsl18fs120_scl_ff
+    nd04d0            tsl18fs120_scl_ff
+    nd04d1            tsl18fs120_scl_ff
+    nd12d4            tsl18fs120_scl_ff
+    nr02d0            tsl18fs120_scl_ff
+    nr02d1            tsl18fs120_scl_ff
+    nr02d2            tsl18fs120_scl_ff
+    nr02d4            tsl18fs120_scl_ff
+    nr03d2            tsl18fs120_scl_ff
+    nr03d4            tsl18fs120_scl_ff
+    nr04d0            tsl18fs120_scl_ff
+    nr04d1            tsl18fs120_scl_ff
+    nr04d2            tsl18fs120_scl_ff
+    nr13d1            tsl18fs120_scl_ff
+    oai21d1           tsl18fs120_scl_ff
+    oai21d4           tsl18fs120_scl_ff
+    oai22d1           tsl18fs120_scl_ff
+    oai22d2           tsl18fs120_scl_ff
+    oai31d1           tsl18fs120_scl_ff
+    oai211d1          tsl18fs120_scl_ff
+    oai222d2          tsl18fs120_scl_ff
+    oaim21d1          tsl18fs120_scl_ff
+    oaim22d1          tsl18fs120_scl_ff
+    oaim211d1         tsl18fs120_scl_ff
+    oan211d1          tsl18fs120_scl_ff
+    or02d0            tsl18fs120_scl_ff
+    or02d1            tsl18fs120_scl_ff
+    or02d2            tsl18fs120_scl_ff
+    xn02d1            tsl18fs120_scl_ff
+    xr02d1            tsl18fs120_scl_ff
+1

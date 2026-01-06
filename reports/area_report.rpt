@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : accelerator_soc
+Version: V-2023.12-SP5-3
+Date   : Sat Nov 29 18:30:03 2025
+****************************************
+
+Library(s) Used:
+
+    tsl18fs120_scl_ff (File: /home/SynopsysInstalledTools/scl_pdk/stdlib/fs120/liberty/lib_flow_ff/tsl18fs120_scl_ff.db)
+
+Number of ports:                          125
+Number of nets:                           778
+Number of cells:                          727
+Number of combinational cells:            557
+Number of sequential cells:               170
+Number of macros/black boxes:               0
+Number of buf/inv:                        189
+Number of references:                      59
+
+Combinational area:               9677.760056
+Buf/Inv area:                     1727.849995
+Noncombinational area:           11196.200104
+Macro/Black Box area:                0.000000
+Net Interconnect area:             729.218724
+
+Total cell area:                 20873.960160
+Total area:                      21603.178884
+1
